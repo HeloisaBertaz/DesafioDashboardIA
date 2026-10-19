@@ -32,3 +32,4 @@ tenha um ar de elegante e refinado
 
 Usei o ChatGPT mas como não gostei muito dos designs propostos fui para o Gemini, misturei um pouco do que vi no GPT, mas usei o dashboard criado pelo Gemini com Canvas. 
 
+Link do site: https://heloisabertaz.github.io/DesafioDashboardIA/
